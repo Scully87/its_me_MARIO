@@ -1,4 +1,4 @@
-(Mario)[http://shit-mario.herokuapp.com]
+[Mario](http://shit-mario.herokuapp.com)
 ========================
 Keys: Left, Right, Up, Down, SpaceBar
 
