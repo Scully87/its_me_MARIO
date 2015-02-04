@@ -18,3 +18,12 @@ body {
     bottom: 22px;
     right: 15px;
 }
+
+#bird {
+		height: 15%;
+		width: 15%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+

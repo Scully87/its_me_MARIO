@@ -38,4 +38,9 @@ $(document).ready(function() {
       $('#mush').animate({right: "-=1100px"}, 10000)
     }, 500);
 
+    setInterval(function() {
+      $('#bird').animate({left: "+=1100px"}, 15000)
+      $('#bird').animate({left: "-=1100px"}, 15000)
+    }, 500);
+
 });
