@@ -1,12 +1,12 @@
 body {
-  background-image: url('http://p1.pichost.me/640/56/1797175.png');
-  background-size: cover;
+	  background-image: url('http://p1.pichost.me/640/56/1797175.png');
+	  background-size: cover;
 }
 
 img {
 		height: 25%;
 		width: 25%;
     position: absolute;
-    bottom: 5px;
+    bottom: 0;
     left: 0;
 }
