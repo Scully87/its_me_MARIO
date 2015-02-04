@@ -43,4 +43,9 @@ $(document).ready(function() {
       $('#bird').animate({left: "-=1100px"}, 15000)
       }, 500);
 
+    setInterval(function() {
+      $('#bird1').animate({right: "+=1100px"}, 25000)
+      $('#bird1').animate({right: "-=1100px"}, 25000)
+      }, 500);    
+
 });
