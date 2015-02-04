@@ -33,7 +33,9 @@ $(document).ready(function() {
 
   });
 
-    $('#mush').animate({right: "+=1100px"}, 10000)
-    $('#mush').animate({right: "-=1100px"}, 10000)
+    setInterval(function() {
+      $('#mush').animate({right: "+=1100px"}, 10000)
+      $('#mush').animate({right: "-=1100px"}, 10000)
+    }, 500);
 
 });
