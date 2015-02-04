@@ -41,6 +41,6 @@ $(document).ready(function() {
     setInterval(function() {
       $('#bird').animate({left: "+=1100px"}, 15000)
       $('#bird').animate({left: "-=1100px"}, 15000)
-    }, 500);
+      }, 500);
 
 });

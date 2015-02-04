@@ -4,6 +4,7 @@ body {
 }
 
 #mario {
+		z-index: 99;
 		height: 25%;
 		width: 25%;
     position: absolute;
