@@ -1,35 +1,5 @@
-Simple Website Template
+(Mario)[http://shit-mario.herokuapp.com]
 ========================
+Keys: Left, Right, Up, Down, SpaceBar
 
-####A simple file structure created to produce a quick sinatra application for site hosting. 
-
-#####Template includes:
-
-	- Sinatra
-	- ERB
-	- CSS/Normalize
-	- JQuery
-
-This template is Heroku ready
-
-How to Use:
-------------
-
-Clone the Repository:
-```shell
-$ git clone https://github.com/Scully87/Sinatra_Template.git
-```
-
-Open the Directory:
-```shell
-$ cd Sinatra_Template
-```
-Install the files:
-```shell
-$ bundle install
-```
-
-Open from terminal:
-```shell
-$ rackup
-```
+![Mario](https://s3.amazonaws.com/uploads.hipchat.com/119067/1211609/W7CgcQoTH7GumZt/Screen%20Shot%202015-02-04%20at%2013.29.13.png)
