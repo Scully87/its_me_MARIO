@@ -31,7 +31,7 @@ $(document).ready(function() {
             break;
         }    
 
-  });
+    });
 
     setInterval(function() {
       $('#mush').animate({right: "+=1100px"}, 10000)
