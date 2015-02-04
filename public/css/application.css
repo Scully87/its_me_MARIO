@@ -2,7 +2,10 @@ body {
   background-image: url('http://p1.pichost.me/640/56/1797175.png');
   background-size: cover;
 }
+
 img {
+		height: 250px;
+		width: 300px;
     position: absolute;
     bottom: 5px;
     left: 0;
