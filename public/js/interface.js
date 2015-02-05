@@ -36,10 +36,10 @@ $(document).ready(function() {
     setInterval(function() {
       $('#mush').animate({right: "+=1100px"}, 10000)
       $('#mush').animate({right: "-=1100px"}, 10000)
-      $('#bird').animate({left: "+=1100px"}, 15000)
-      $('#bird').animate({left: "-=1100px"}, 15000)
-      $('#bird1').animate({right: "+=1100px"}, 25000)
-      $('#bird1').animate({right: "-=1100px"}, 25000)
+      $('#bird-upper').animate({left: "+=1100px"}, 15000)
+      $('#bird-upper').animate({left: "-=1100px"}, 15000)
+      $('#bird-lower').animate({right: "+=1100px"}, 25000)
+      $('#bird-lower').animate({right: "-=1100px"}, 25000)
     }, 100);   
 
 });

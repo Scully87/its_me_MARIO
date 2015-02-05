@@ -1,36 +1,37 @@
 body {
-	  background-image: url('http://p1.pichost.me/640/56/1797175.png');
-	  background-size: cover;
+    background-image: url('http://p1.pichost.me/640/56/1797175.png');
+    background-size: 100%;
+    background-repeat: repeat-x;
 }
 
 #mario {
-		z-index: 99;
-		height: 25%;
-		width: 25%;
+    z-index: 99;
+    height: 25%;
+    width: 25%;
     position: absolute;
     bottom: 0;
     left: 0;
 }
 
 #mush {
-		height: 15%;
-		width: 8%;
+    height: 15%;
+    width: 8%;
     position: absolute;
     bottom: 22px;
     right: 15px;
 }
 
-#bird {
-		height: 15%;
-		width: 15%;
+#bird-upper {
+    height: 15%;
+    width: 15%;
     position: absolute;
     top: 0;
     left: 0;
 }
 
-#bird1 {
-		height: 15%;
-		width: 15%;
+#bird-lower {
+    height: 15%;
+    width: 15%;
     position: absolute;
     top: 80px;
     right: 0;
