@@ -6,22 +6,22 @@ $(document).ready(function() {
 
           // Left Arrow Pressed
           case 37:
-              $('#mario').animate({left: "-=10px"}, 80);
+              $('#mario').animate({left: "-=10px"}, 10);
             break;
 
           // Up Arrow Pressed
           case 38:
-              $('#mario').animate({bottom: "+=10px"}, 80);
+              $('#mario').animate({bottom: "+=10px"}, 10);
             break;
                 
           // Right Arrow Pressed
           case 39:
-              $('#mario').animate({left: "+=10px"}, 80);
+              $('#mario').animate({left: "+=10px"}, 10);
             break;
 
           // Down Arrow Pressed
           case 40:
-              $('#mario').animate({bottom: "-=10px"}, 80);
+              $('#mario').animate({bottom: "-=10px"}, 10);
             break;
 
           // Space Bar Pressed
