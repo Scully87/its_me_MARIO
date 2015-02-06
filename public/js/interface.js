@@ -34,12 +34,12 @@ $(document).ready(function() {
     });
 
     setInterval(function() {
-      $('#mush').animate({right: "+=1100px"}, 10000)
-      $('#mush').animate({right: "-=1100px"}, 10000)
-      $('#bird-upper').animate({left: "+=1100px"}, 15000)
-      $('#bird-upper').animate({left: "-=1100px"}, 15000)
-      $('#bird-lower').animate({right: "+=1100px"}, 25000)
-      $('#bird-lower').animate({right: "-=1100px"}, 25000)
+      $('#mush').animate({right: "+=100%"}, 10000)
+      $('#mush').animate({right: "-=100%"}, 10000)
+      $('#bird-upper').animate({left: "+=100%"}, 15000)
+      $('#bird-upper').animate({left: "-=100%"}, 15000)
+      $('#bird-lower').animate({right: "+=100%"}, 25000)
+      $('#bird-lower').animate({right: "-=100%"}, 25000)
     }, 100);   
 
 });
